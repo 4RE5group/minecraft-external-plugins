@@ -1,0 +1,2 @@
+tp {player} get{{player}.SpawnX} get{{player}.SpawnY} get{{player}.SpawnZ}
+tellraw {player} "§4You've been teleported to your SpawnPoint"
